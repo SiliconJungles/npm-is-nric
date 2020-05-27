@@ -1,6 +1,6 @@
 {
   "name": "is-nric",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validates if a given string is a Singaporean NRIC / FIN",
   "author": "aelesia",
   "license": "MIT",
