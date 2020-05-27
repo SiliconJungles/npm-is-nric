@@ -1,10 +1,10 @@
 {
-  "name": "@aelesia/npm-template",
-  "version": "0.1.4",
-  "description": "Template for NPM packages",
-  "author": "",
+  "name": "is-nric",
+  "version": "1.0.0",
+  "description": "Validates if a given string is a Singaporean NRIC / FIN",
+  "author": "aelesia",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/SiliconJungles/is-nric",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

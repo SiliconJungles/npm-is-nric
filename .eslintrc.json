@@ -31,6 +31,8 @@
 		"@typescript-eslint/camelcase": "off",
 		"@typescript-eslint/class-name-casing": "off",
 		"@typescript-eslint/ban-ts-ignore": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/no-empty-function": "warn",
 		"prettier/prettier": "warn",
 		"prefer-const": "off"
 	}
