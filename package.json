@@ -1,13 +1,13 @@
 {
   "name": "is-nric",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Validates if a given string is a Singaporean NRIC / FIN",
   "author": "aelesia",
   "license": "MIT",
   "repository": "https://github.com/SiliconJungles/is-nric",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist/*"],
+  "files": ["dist/*", "src/*", "index.ts"],
   "scripts": {
     "prepublish": "tsc --incremental false",
     "compile": "tsc --noEmit && eslint . --ext .ts",
